@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#6200EE</color>
+    <color name="transparent">#32BB86FC</color>
+    <color name="pending">#FFBE41</color>
+    <color name="success">#90EE90</color>
+    <color name="error">#FF4C30</color>
+    <color name="black">#FF000000</color>
+    <color name="un_active">#99000000</color>
+    <color name="text_color_black">#2B3238</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textColor">#31456A</color>
+</resources>
